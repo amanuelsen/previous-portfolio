@@ -53,7 +53,7 @@ export default function Home() {
           </li>
           <li className="item">
             <h2>Languages</h2>
-            <span> Java, Typescript</span>
+            <span> Javascript</span>
           </li>
         </ol>
       </div>
