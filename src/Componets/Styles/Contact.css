@@ -1,0 +1,30 @@
+
+.contact{
+    margin: 50px;
+    background-color:transparent;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.contact h1{
+    color: white;
+}
+.contact-s{
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+.inne{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+.contact-s p{
+    color: white;
+    
+}
